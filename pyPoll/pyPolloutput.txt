@@ -1,10 +1,10 @@
 Election Results
 --------------------
-The total number of votes cast is: 1048575
+The total number of votes cast is: 3521001
 --------------------
-Correy came in with 209046 votes with 19.94%
-Khan came in with 661583 votes with 63.09%
-Li came in with 146360 votes with 13.96%
-O'Tooley came in with 31586 votes with 3.01%
+Correy came in with 704200 votes with 20.00%
+Khan came in with 2218231 votes with 63.00%
+Li came in with 492940 votes with 14.00%
+O'Tooley came in with 105630 votes with 3.00%
 --------------------
 The winner is Khan
